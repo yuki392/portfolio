@@ -1,0 +1,28 @@
+body {
+    background-color: #ffffff;
+}
+
+.day {
+    color: #fca311;
+}
+
+h1 {
+    color: #14213d;
+}
+
+h2 {
+    color: #14213d;
+}
+
+th {
+    background-color: #e5e5e5;
+}
+
+th, td {
+    border: solid 1px;
+}
+
+table {
+    /* セルの線を重ねる */
+    border-collapse: collapse;
+}
