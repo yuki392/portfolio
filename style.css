@@ -1,5 +1,6 @@
 body {
     background-color: #ffffff;
+    font-family: "Noto Serif JP", serif;
 }
 
 .day {
@@ -25,4 +26,14 @@ th, td {
 table {
     /* セルの線を重ねる */
     border-collapse: collapse;
+}
+
+.navbar.scrolled {
+    background: #E5E5E5;
+    transition: background 500ms;
+}
+
+i {
+    font-size: 2rem;
+    color: black;
 }
